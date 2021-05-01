@@ -1,4 +1,4 @@
-# TWX_Connection_MSSQL_Postgres
+# How to connect Thingworx with external database
 Connecting Thingworx to external database ( Postgres &amp; MSSQL )
 
 
